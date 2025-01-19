@@ -12,7 +12,7 @@
 - **Detección de Rostros:** Identifica y analiza rostros en imágenes y videos. 
 
 ## Portada del Proyecto  
-<img src="assets/ml_kit_cover.png" alt="Portada del Proyecto" width="400"/>
+<img src="assets/screen.jpg" alt="Portada del Proyecto" width="400"/>
 
 ## QR DE LA COMUNIDAD FLUTTER PIURA  
 <img src="assets/comunidad.png" alt="QR DE LA COMUNIDAD FLUTTER PIURA" width="400"/>
