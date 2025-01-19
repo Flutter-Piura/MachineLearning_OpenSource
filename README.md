@@ -1,4 +1,4 @@
-# flutter_ml_kit  
+# MachineLearning_OpenSource
 
 ## Funcionalidades Principales  
 - **TensorFlow Lite:** Identifica imagenes y texto con un modelo integrado.
@@ -32,11 +32,11 @@ For help getting started with Flutter development, view the [online documentatio
 ## Instalación  
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/tu_usuario/flutter_ml_kit.git
+   git clone https://github.com/Flutter-Piura/MachineLearning_OpenSource.git
 
 2. Navega al directorio del proyecto:
    ```bash
-   cd flutter_ml_kit
+   cd MachineLearning_OpenSource
 
 3. Instala dependencias
    ```bash
